@@ -40,7 +40,7 @@
 
 
 ### ☕ How I Code:
-```java
+``java
 while (true) {
     code();
     drinkCoffee();
