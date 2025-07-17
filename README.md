@@ -123,11 +123,11 @@
 
 <h2 align="center">📊 GitHub Stats & Activity 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vasu's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vtaunk1932&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vasu's GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_username&layout=compact&langs_count=8&theme=tokyonight" alt="Vasu's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtaunk1932&layout=compact&langs_count=8&theme=tokyonight" alt="Vasu's Top Languages">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=your_github_username&theme=tokyonight" alt="Vasu's GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=vtaunk1932&theme=tokyonight" alt="Vasu's GitHub Streak">
 </p>
 
 <hr>
