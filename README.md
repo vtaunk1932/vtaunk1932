@@ -63,7 +63,7 @@
 <table width="100%" cellspacing="10" cellpadding="10">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/your_github_username/Electronic-Store">🛒 Electronic Store Backend</a></h3>
+      <h3><a href="https://github.com/vtaunk1932/Electronic-Store">🛒 Electronic Store Backend</a></h3>
       <p>A scalable and secure backend for an e-commerce platform using Spring Boot. Features robust authentication with JWT, role-based access, and comprehensive RESTful APIs for products, carts, and orders with advanced filtering and pagination.</p>
       <p>
         <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
@@ -73,7 +73,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/your_github_username/Interview-Prep-Tracker">🎯 Interview Prep Tracker</a></h3>
+      <h3><a href="https://github.com/vtaunk1932/Interview-Prep-Tracker">🎯 Interview Prep Tracker</a></h3>
       <p>A backend service to manage interview questions and track user progress. Features REST APIs for topics, companies, and progress aggregation for data visualization. Containerized with Docker for easy deployment.</p>
       <p>
         <img src="https://img.shields.io/badge/java-17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17">
@@ -85,7 +85,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/your_github_username/Email-Sender-App">✉️ Email Sender App</a></h3>
+      <h3><a href="https://github.com/vtaunk1932/Email-Sender-App">✉️ Email Sender App</a></h3>
       <p>A full-stack web app that sends emails with attachments using JavaMailSender and a Spring Boot backend. Features a responsive UI and secure SMTP configuration with TLS encryption.</p>
       <p>
         <img src="https://img.shields.io/badge/java-17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 17">
@@ -123,11 +123,11 @@
 
 <h2 align="center">📊 GitHub Stats & Activity 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vtaunk1932 &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vasu's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vtaunk1932&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vasu's GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtaunk1932 &layout=compact&langs_count=8&theme=tokyonight" alt="Vasu's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtaunk1932&layout=compact&langs_count=8&theme=tokyonight" alt="Vasu's Top Languages">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=vtaunk1932 &theme=tokyonight" alt="Vasu's GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=vtaunk1932&theme=tokyonight" alt="Vasu's GitHub Streak">
 </p>
 
 <hr>
