@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Vasu+Taunk!++;Full-Stack+Developer;Backend+Enthusiast;Java+%26+Spring+Boot+Dev;Problem+Solver" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=33FF33&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Vasu+Taunk!++;Full-Stack+Developer;Backend+Enthusiast;Java+%26+Spring+Boot+Dev;Problem+Solver" alt="Typing SVG">
   </a>
 </h1>
 
@@ -123,12 +123,19 @@
 
 <h2 align="center">📊 GitHub Stats & Activity 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vtaunk1932&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vasu's GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtaunk1932&layout=compact&langs_count=8&theme=tokyonight" alt="Vasu's Top Languages">
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=vtaunk1932&theme=tokyonight" alt="Vasu's GitHub Streak">
+  <a href="https://github.com/vtaunk1932" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=vtaunk1932&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vasu Taunk's GitHub Stats" />
+  </a>
+  <br />
+  <a href="https://github.com/vtaunk1932" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtaunk1932&layout=compact&langs_count=8&theme=tokyonight" alt="Vasu Taunk's Top Languages" />
+  </a>
+  <br />
+  <a href="https://github.com/vtaunk1932" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=vtaunk1932&theme=tokyonight" alt="Vasu Taunk's GitHub Streak" />
+  </a>
 </p>
+
 
 <hr>
 <h2 align="center">Platforms I Code On</h2>
