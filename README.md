@@ -95,7 +95,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/your_github_username/iTour">✈️ iTour - Indore Tourism</a></h3>
+      <h3><a href="https://github.com/vtaunk1932/iTour">✈️ iTour - Indore Tourism</a></h3>
       <p>A full-stack tourism web application for Indore, showcasing top attractions, events, and accommodations. Integrated with interactive maps and booking features to enhance the user experience for millions of tourists.</p>
       <p>
         <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
@@ -123,18 +123,18 @@
 
 <h2 align="center">📊 GitHub Stats & Activity 📊</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vtaunk1932&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vasu's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vtaunk1932 &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Vasu's GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtaunk1932&layout=compact&langs_count=8&theme=tokyonight" alt="Vasu's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtaunk1932 &layout=compact&langs_count=8&theme=tokyonight" alt="Vasu's Top Languages">
   <br>
-  <img src="https://streak-stats.demolab.com/?user=vtaunk1932&theme=tokyonight" alt="Vasu's GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=vtaunk1932 &theme=tokyonight" alt="Vasu's GitHub Streak">
 </p>
 
 <hr>
 <h2 align="center">Platforms I Code On</h2>
 <p align="center">
-  <a href="https://leetcode.com/your_leetcode_username/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
-  <a href="https://www.geeksforgeeks.org/user/your_gfg_username/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
-  <a href="https://www.codechef.com/users/your_codechef_username" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/profile/your_hackerrank_username" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://leetcode.com/vtaunk1932/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://www.geeksforgeeks.org/user/vasutaus4ze/" target="_blank"><img alt="GeeksforGeeks" src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
+  <a href="https://www.codechef.com/users/solid_flamingo" target="_blank"><img alt="CodeChef" src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/vasu_taunk1932" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </p>
